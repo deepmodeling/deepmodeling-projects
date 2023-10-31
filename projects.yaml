@@ -6,6 +6,7 @@ configuration:
   require_license: false
   min_description_length: 0
   max_description_length: 200
+  project_dead_months: 999999999
 
 categories:
   # - category: "data-engineering"

@@ -69,6 +69,7 @@ projects:
     github_id: deepmodeling/dpdata
     pypi_id: dpdata
     conda_id: conda-forge/dpdata
+    dockerhub_id: dptechnology/dpdata
   - name: dpdispatcher
     github_id: deepmodeling/dpdispatcher
     pypi_id: dpdispatcher
@@ -106,3 +107,5 @@ projects:
     github_id: deepmodeling/tutorials-cn
   - name: Uni-Fold
     github_id: deepmodeling/Uni-Fold
+    dockerhub_id: dptechnology/unifold
+

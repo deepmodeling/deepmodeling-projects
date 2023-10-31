@@ -25,9 +25,9 @@ projects:
   - name: APEX
     github_id: deepmodeling/APEX
     pypi_id: apex-flow
-  - name: @deepmodeling/args
+  - name: "@deepmodeling/args"
     github_id: deepmodeling/args
-    npm_id: @deepmodeling/args
+    npm_id: "@deepmodeling/args"
   - name: Blog
     github_id: deepmodeling/blog
   - name: community

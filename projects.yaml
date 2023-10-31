@@ -1,6 +1,8 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  min_projectrank: 0
+  min_stars: 0
 
 categories:
   # - category: "data-engineering"
@@ -25,7 +27,7 @@ projects:
   - name: APEX
     github_id: deepmodeling/APEX
     pypi_id: apex-flow
-  - name: "@deepmodeling/args"
+  - name: args
     github_id: deepmodeling/args
     npm_id: "@deepmodeling/args"
   - name: Blog
@@ -48,7 +50,7 @@ projects:
     npm_id: deepmd-kit
     dockerhub_id: deepmodeling/deepmd-kit
   - name: deepmodeling_sphinx
-    github_id: deepmodeling/deepmd-kit
+    github_id: deepmodeling/deepmodeling_sphinx
     pypi_id: deepmodeling_sphinx
   - name: DeePTB
     github_id: deepmodeling/DeePTB

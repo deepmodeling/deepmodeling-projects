@@ -13,7 +13,94 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: ABACUS
+    github_id: deepmodeling/abacus-develop
+    conda_id: conda-forge/abacus
+  - name: ADMP
+    github_id: deepmodeling/ADMP
+  - name: AI4Science101
+    github_id: deepmodeling/AI4Science101
+  - name: AIS-Square
+    github_id: deepmodeling/AIS-Square
+  - name: APEX
+    github_id: deepmodeling/APEX
+    pypi_id: apex-flow
+  - name: @deepmodeling/args
+    github_id: deepmodeling/args
+    npm_id: @deepmodeling/args
+  - name: Blog
+    github_id: deepmodeling/blog
+  - name: community
+    github_id: deepmodeling/community
+  - name: dargs
+    github_id: deepmodeling/dargs
+    pypi_id: dargs
+  - name: DeepFlame
+    github_id: deepmodeling/deepflame-dev
+  - name: DeepH-pack
+    github_id: deepmodeling/DeepH-pack
+  - name: DeePKS-kit
+    github_id: deepmodeling/deepks-kit
+  - name: DeePMD-kit
+    github_id: deepmodeling/deepmd-kit
+    pypi_id: deepmd-kit
+    conda_id: conda-forge/deepmd-kit
+    npm_id: deepmd-kit
+    dockerhub_id: deepmodeling/deepmd-kit
+  - name: deepmodeling_sphinx
+    github_id: deepmodeling/deepmd-kit
+    pypi_id: deepmodeling_sphinx
+  - name: DeePTB
+    github_id: deepmodeling/DeePTB
+  - name: dflow
+    github_id: deepmodeling/dflow
+    pypi_id: dflow
+    conda_id: conda-forge/dflow
+    dockerhub_id: dptechnology/dflow
+  - name: dflow-op-cutter
+    github_id: deepmodeling/dflow-op-cutter
+  - name: DMFF
+    github_id: deepmodeling/DMFF
+  - name: docs
+    github_id: deepmodeling/docs
+  - name: dpdata
+    github_id: deepmodeling/dpdata
+    pypi_id: dpdata
+    conda_id: conda-forge/dpdata
+  - name: dpdispatcher
+    github_id: deepmodeling/dpdispatcher
+    pypi_id: dpdispatcher
+    conda_id: conda-forge/dpdispatcher
+    dockerhub_id: dptechnology/dpdispatcher
+  - name: DP-GEN
+    github_id: deepmodeling/dpgen
+    pypi_id: dpgen
+    conda_id: conda-forge/dpgen
+  - name: DPGEN2
+    github_id: deepmodeling/dpgen2
+    pypi_id: dpgen2
+    dockerhub_id: dptechnology/dpgen2
+  - name: DP-GUI
+    github_id: deepmodeling/dpgui
+    pypi_id: dpgui
+  - name: dpti
+    github_id: deepmodeling/dpti
+  - name: fealpy
+    github_id: deepmodeling/fealpy
+    pypi_id: fealpy
+  - name: fpop
+    github_id: deepmodeling/fpop
+    pypi_id: fpop
+  - name: LibRI
+    github_id: deepmodeling/LibRI
+  - name: openfinite
+    github_id: deepmodeling/openfinite
+  - name: rid-kit
+    github_id: deepmodeling/rid-kit
+    pypi_id: rid-kit
+  - name: tutorials
+    github_id: deepmodeling/tutorials
+  - name: tutorials-cn
+    github_id: deepmodeling/tutorials-cn
+  - name: Uni-Fold
+    github_id: deepmodeling/Uni-Fold

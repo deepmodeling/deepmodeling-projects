@@ -12,10 +12,10 @@
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-33-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/njzjz/deepmodeling-projects/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/njzjz/deepmodeling-projects?color=green&label=updated"></a>
+    <a href="https://github.com/deepmodeling/deepmodeling-projects/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/deepmodeling/deepmodeling-projects?color=green&label=updated"></a>
 </p>
 
-This curated list contains 33 awesome open-source projects with a total of 2.5K stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/njzjz/deepmodeling-projects/issues/new/choose), submit a [pull request](https://github.com/njzjz/deepmodeling-projects/pulls), or directly edit the [projects.yaml](https://github.com/njzjz/deepmodeling-projects/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 33 awesome open-source projects with a total of 2.5K stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/deepmodeling/deepmodeling-projects/issues/new/choose), submit a [pull request](https://github.com/deepmodeling/deepmodeling-projects/pulls), or directly edit the [projects.yaml](https://github.com/deepmodeling/deepmodeling-projects/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -427,12 +427,12 @@ This curated list contains 33 awesome open-source projects with a total of 2.5K 
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
-- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/njzjz/deepmodeling-projects/issues/new/choose) and fill in the requested information.
-- Modify the [projects.yaml](https://github.com/njzjz/deepmodeling-projects/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/njzjz/deepmodeling-projects/edit/main/projects.yaml).
+- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/deepmodeling/deepmodeling-projects/issues/new/choose) and fill in the requested information.
+- Modify the [projects.yaml](https://github.com/deepmodeling/deepmodeling-projects/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/deepmodeling/deepmodeling-projects/edit/main/projects.yaml).
 
 If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/njzjz/deepmodeling-projects/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/njzjz/deepmodeling-projects/blob/main/.github/CODE_OF_CONDUCT.md).
+For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/deepmodeling/deepmodeling-projects/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/deepmodeling/deepmodeling-projects/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ## License
 

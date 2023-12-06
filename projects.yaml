@@ -94,6 +94,7 @@ projects:
     pypi_id: dpgui
   - name: dpti
     github_id: deepmodeling/dpti
+    pypi_id: dpti
   - name: fealpy
     github_id: deepmodeling/fealpy
     pypi_id: fealpy

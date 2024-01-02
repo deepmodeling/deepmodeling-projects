@@ -43,6 +43,7 @@ projects:
   - name: dargs
     github_id: deepmodeling/dargs
     pypi_id: dargs
+    conda_id: conda-forge/dargs
   - name: DeepFlame
     github_id: deepmodeling/deepflame-dev
   - name: DeepH-pack

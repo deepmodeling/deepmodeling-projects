@@ -69,6 +69,7 @@ projects:
     github_id: deepmodeling/dflow-op-cutter
   - name: DMFF
     github_id: deepmodeling/DMFF
+    conda_id: conda-forge/dmff
   - name: docs
     github_id: deepmodeling/docs
   - name: dpdata

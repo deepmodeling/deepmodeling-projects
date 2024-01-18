@@ -44,86 +44,86 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/deepmodeling/deepmd-kit">DeePMD-kit</a></b> (🥇28 ·  ⭐ 1.3K) - A deep learning package for many-body potential energy representation and molecular dynamics. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/deepmd-kit">DeePMD-kit</a></b> (🥇27 ·  ⭐ 1.3K · 📉) - A deep learning package for many-body potential energy representation and molecular dynamics. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/deepmodeling/deepmd-kit) (👨‍💻 64 · 🔀 440 · 📥 31K · 📦 12 · 📋 500 - 7% open · ⏱️ 27.10.2023):
 
 	```
 	git clone https://github.com/deepmodeling/deepmd-kit
 	```
-- [PyPi](https://pypi.org/project/deepmd-kit) (📥 770 / month):
+- [PyPi](https://pypi.org/project/deepmd-kit) (📥 990 / month):
 	```
 	pip install deepmd-kit
 	```
-- [Conda](https://anaconda.org/conda-forge/deepmd-kit) (📥 450K · ⏱️ 28.11.2023):
+- [Conda](https://anaconda.org/conda-forge/deepmd-kit) (📥 450K · ⏱️ 14.01.2024):
 	```
 	conda install -c conda-forge deepmd-kit
 	```
-- [npm](https://www.npmjs.com/package/deepmd-kit) (📥 18 / month):
+- [npm](https://www.npmjs.com/package/deepmd-kit) (📥 29 / month):
 	```
 	npm install deepmd-kit
 	```
-- [Docker Hub](https://hub.docker.com/r/deepmodeling/deepmd-kit) (📥 2K · ⭐ 1 · ⏱️ 29.10.2023):
+- [Docker Hub](https://hub.docker.com/r/deepmodeling/deepmd-kit) (📥 2.1K · ⭐ 1 · ⏱️ 29.10.2023):
 	```
 	docker pull deepmodeling/deepmd-kit
 	```
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/dpgen">DP-GEN</a></b> (🥇23 ·  ⭐ 260) - The deep potential generator to generate a deep-learning based model of interatomic potential energy and force field. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/dpgen) (👨‍💻 62 · 🔀 160 · 📥 1.6K · 📦 4 · 📋 260 - 7% open · ⏱️ 02.11.2023):
+- [GitHub](https://github.com/deepmodeling/dpgen) (👨‍💻 62 · 🔀 160 · 📥 1.6K · 📦 4 · 📋 260 - 8% open · ⏱️ 02.11.2023):
 
 	```
 	git clone https://github.com/deepmodeling/dpgen
 	```
-- [PyPi](https://pypi.org/project/dpgen) (📥 420 / month):
+- [PyPi](https://pypi.org/project/dpgen) (📥 410 / month):
 	```
 	pip install dpgen
 	```
-- [Conda](https://anaconda.org/conda-forge/dpgen) (📥 26K · ⏱️ 02.11.2023):
+- [Conda](https://anaconda.org/conda-forge/dpgen) (📥 27K · ⏱️ 02.11.2023):
 	```
 	conda install -c conda-forge dpgen
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/dpdata">dpdata</a></b> (🥇22 ·  ⭐ 160 · 📉) - Manipulating multiple atomic simulation data formats, including DeePMD-kit, VASP, LAMMPS, ABACUS, etc. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/dpdata">dpdata</a></b> (🥇22 ·  ⭐ 160) - Manipulating multiple atomic simulation data formats, including DeePMD-kit, VASP, LAMMPS, ABACUS, etc. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/deepmodeling/dpdata) (👨‍💻 51 · 🔀 110 · 📦 110 · 📋 80 - 12% open · ⏱️ 31.10.2023):
 
 	```
 	git clone https://github.com/deepmodeling/dpdata
 	```
-- [PyPi](https://pypi.org/project/dpdata) (📥 5.4K / month):
+- [PyPi](https://pypi.org/project/dpdata) (📥 5.8K / month):
 	```
 	pip install dpdata
 	```
-- [Conda](https://anaconda.org/conda-forge/dpdata) (📥 63K · ⏱️ 31.10.2023):
+- [Conda](https://anaconda.org/conda-forge/dpdata) (📥 64K · ⏱️ 31.10.2023):
 	```
 	conda install -c conda-forge dpdata
 	```
-- [Docker Hub](https://hub.docker.com/r/dptechnology/dpdata) (📥 66 · ⏱️ 02.06.2023):
+- [Docker Hub](https://hub.docker.com/r/dptechnology/dpdata) (📥 74 · ⏱️ 02.06.2023):
 	```
 	docker pull dptechnology/dpdata
 	```
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/abacus-develop">ABACUS</a></b> (🥇22 ·  ⭐ 130) - An electronic structure package based on either plane wave basis or numerical atomic orbitals. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/abacus-develop) (👨‍💻 90 · 🔀 87 · 📋 1.1K - 12% open · ⏱️ 11.01.2024):
+- [GitHub](https://github.com/deepmodeling/abacus-develop) (👨‍💻 90 · 🔀 88 · 📋 1.1K - 12% open · ⏱️ 18.01.2024):
 
 	```
 	git clone https://github.com/deepmodeling/abacus-develop
 	```
-- [Conda](https://anaconda.org/conda-forge/abacus) (📥 12K · ⏱️ 31.12.2023):
+- [Conda](https://anaconda.org/conda-forge/abacus) (📥 13K · ⏱️ 16.01.2024):
 	```
 	conda install -c conda-forge abacus
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/dpdispatcher">dpdispatcher</a></b> (🥇22 ·  ⭐ 36 · 📉) - generate HPC scheduler systems jobs input scripts and submit these scripts to HPC systems and poke until they finish. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/dpdispatcher">dpdispatcher</a></b> (🥇22 ·  ⭐ 36) - generate HPC scheduler systems jobs input scripts and submit these scripts to HPC systems and poke until they finish. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/dpdispatcher) (👨‍💻 43 · 🔀 46 · 📦 43 · 📋 61 - 18% open · ⏱️ 31.12.2023):
+- [GitHub](https://github.com/deepmodeling/dpdispatcher) (👨‍💻 43 · 🔀 47 · 📦 43 · 📋 63 - 20% open · ⏱️ 31.12.2023):
 
 	```
 	git clone https://github.com/deepmodeling/dpdispatcher
 	```
-- [PyPi](https://pypi.org/project/dpdispatcher) (📥 2.8K / month):
+- [PyPi](https://pypi.org/project/dpdispatcher) (📥 2K / month):
 	```
 	pip install dpdispatcher
 	```
@@ -136,9 +136,9 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 	docker pull dptechnology/dpdispatcher
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/dflow">dflow</a></b> (🥈17 ·  ⭐ 44) - Dflow is a Python framework for constructing scientific computing workflows (e.g. concurrent learning workflows).. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/dflow">dflow</a></b> (🥈17 ·  ⭐ 45) - Dflow is a Python framework for constructing scientific computing workflows (e.g. concurrent learning workflows).. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/dflow) (👨‍💻 21 · 🔀 20 · 📋 34 - 38% open · ⏱️ 05.01.2024):
+- [GitHub](https://github.com/deepmodeling/dflow) (👨‍💻 21 · 🔀 20 · 📋 34 - 38% open · ⏱️ 15.01.2024):
 
 	```
 	git clone https://github.com/deepmodeling/dflow
@@ -151,39 +151,39 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 	```
 	conda install -c conda-forge dflow
 	```
-- [Docker Hub](https://hub.docker.com/r/dptechnology/dflow) (📥 1.8K · ⏱️ 05.01.2024):
+- [Docker Hub](https://hub.docker.com/r/dptechnology/dflow) (📥 3.3K · ⏱️ 15.01.2024):
 	```
 	docker pull dptechnology/dflow
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/deepflame-dev">DeepFlame</a></b> (🥈16 ·  ⭐ 100) - A deep learning empowered open-source platform for reacting flow simulations. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/deepflame-dev">DeepFlame</a></b> (🥈16 ·  ⭐ 110) - A deep learning empowered open-source platform for reacting flow simulations. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/deepflame-dev) (👨‍💻 20 · 🔀 50 · 📋 39 - 30% open · ⏱️ 04.01.2024):
+- [GitHub](https://github.com/deepmodeling/deepflame-dev) (👨‍💻 20 · 🔀 53 · 📋 40 - 32% open · ⏱️ 04.01.2024):
 
 	```
 	git clone https://github.com/deepmodeling/deepflame-dev
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/dpgui">DP-GUI</a></b> (🥈16 ·  ⭐ 7) - A web-based GUI for user inputs. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/dpgui">DP-GUI</a></b> (🥈16 ·  ⭐ 6) - A web-based GUI for user inputs. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/dpgui) (👨‍💻 3 · 🔀 3 · 📦 4 · ⏱️ 06.01.2024):
+- [GitHub](https://github.com/deepmodeling/dpgui) (👨‍💻 3 · 🔀 4 · 📦 4 · ⏱️ 18.01.2024):
 
 	```
 	git clone https://github.com/deepmodeling/dpgui
 	```
-- [PyPi](https://pypi.org/project/dpgui) (📥 4.6K / month):
+- [PyPi](https://pypi.org/project/dpgui) (📥 5.4K / month):
 	```
 	pip install dpgui
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/dargs">dargs</a></b> (🥈16 ·  ⭐ 5 · 📉) - Argument processing for the deep modeling project. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/dargs">dargs</a></b> (🥈16 ·  ⭐ 5) - Argument processing for the deep modeling project. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/deepmodeling/dargs) (👨‍💻 5 · 🔀 1 · 📦 110 · 📋 7 - 14% open · ⏱️ 01.11.2023):
 
 	```
 	git clone https://github.com/deepmodeling/dargs
 	```
-- [PyPi](https://pypi.org/project/dargs) (📥 9.5K / month):
+- [PyPi](https://pypi.org/project/dargs) (📥 9.6K / month):
 	```
 	pip install dargs
 	```
@@ -192,26 +192,26 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 	conda install -c conda-forge dargs
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/DMFF">DMFF</a></b> (🥈14 ·  ⭐ 130 · 📈) - DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable.. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/DMFF">DMFF</a></b> (🥈14 ·  ⭐ 130) - DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable.. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/DMFF) (👨‍💻 13 · 🔀 36 · 📋 21 - 33% open · ⏱️ 09.11.2023):
+- [GitHub](https://github.com/deepmodeling/DMFF) (👨‍💻 14 · 🔀 37 · 📋 22 - 36% open · ⏱️ 12.01.2024):
 
 	```
 	git clone https://github.com/deepmodeling/DMFF
 	```
-- [Conda](https://anaconda.org/conda-forge/dmff) (📥 51 · ⏱️ 06.01.2024):
+- [Conda](https://anaconda.org/conda-forge/dmff) (📥 69 · ⏱️ 06.01.2024):
 	```
 	conda install -c conda-forge dmff
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/rid-kit">rid-kit</a></b> (🥈12 ·  ⭐ 40) - Reinforced dynamics. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/rid-kit">rid-kit</a></b> (🥈12 ·  ⭐ 41) - Reinforced dynamics. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/deepmodeling/rid-kit) (👨‍💻 14 · 🔀 20 · 📥 140 · ⏱️ 22.09.2023):
 
 	```
 	git clone https://github.com/deepmodeling/rid-kit
 	```
-- [PyPi](https://pypi.org/project/rid-kit) (📥 64 / month):
+- [PyPi](https://pypi.org/project/rid-kit) (📥 90 / month):
 	```
 	pip install rid-kit
 	```
@@ -231,7 +231,7 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 	```
 	git clone https://github.com/deepmodeling/dpgen2
 	```
-- [PyPi](https://pypi.org/project/dpgen2) (📥 41 / month):
+- [PyPi](https://pypi.org/project/dpgen2) (📥 66 / month):
 	```
 	pip install dpgen2
 	```
@@ -240,26 +240,26 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 	docker pull dptechnology/dpgen2
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/APEX">APEX</a></b> (🥈12 ·  ⭐ 11) - APEX: Alloy Properties EXplorer using simulations. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/APEX">APEX</a></b> (🥈12 ·  ⭐ 10) - APEX: Alloy Properties EXplorer using simulations. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/APEX) (👨‍💻 4 · 🔀 8 · ⏱️ 17.11.2023):
+- [GitHub](https://github.com/deepmodeling/APEX) (👨‍💻 4 · 🔀 9 · ⏱️ 17.11.2023):
 
 	```
 	git clone https://github.com/deepmodeling/APEX
 	```
-- [PyPi](https://pypi.org/project/apex-flow) (📥 48 / month):
+- [PyPi](https://pypi.org/project/apex-flow) (📥 42 / month):
 	```
 	pip install apex-flow
 	```
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/deepmodeling_sphinx">deepmodeling_sphinx</a></b> (🥈12 ·  ⭐ 2) - Sphinx extension for DeepModeling projects. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/deepmodeling_sphinx) (👨‍💻 5 · 🔀 4 · ⏱️ 17.12.2023):
+- [GitHub](https://github.com/deepmodeling/deepmodeling_sphinx) (👨‍💻 5 · 🔀 5 · ⏱️ 17.12.2023):
 
 	```
 	git clone https://github.com/deepmodeling/deepmodeling_sphinx
 	```
-- [PyPi](https://pypi.org/project/deepmodeling_sphinx) (📥 1.7K / month):
+- [PyPi](https://pypi.org/project/deepmodeling_sphinx) (📥 1.8K / month):
 	```
 	pip install deepmodeling_sphinx
 	```
@@ -271,12 +271,12 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 	```
 	git clone https://github.com/deepmodeling/args
 	```
-- [npm](https://www.npmjs.com/package/@deepmodeling/args) (📥 210 / month):
+- [npm](https://www.npmjs.com/package/@deepmodeling/args) (📥 280 / month):
 	```
 	npm install @deepmodeling/args
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/deepks-kit">DeePKS-kit</a></b> (🥉10 ·  ⭐ 95 · 💤) - a package for developing machine learning-based chemically accurate energy and density functional models. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/deepks-kit">DeePKS-kit</a></b> (🥉10 ·  ⭐ 96 · 💤) - a package for developing machine learning-based chemically accurate energy and density functional models. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/deepmodeling/deepks-kit) (👨‍💻 6 · 🔀 31 · 📋 13 - 7% open · ⏱️ 01.04.2023):
 
@@ -286,24 +286,24 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/dpti">dpti</a></b> (🥉9 ·  ⭐ 15) - A Python Package to Automate Thermodynamic Integration Calculations for Free Energy. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/dpti) (👨‍💻 13 · 🔀 16 · ⏱️ 05.07.2023):
+- [GitHub](https://github.com/deepmodeling/dpti) (👨‍💻 13 · 🔀 17 · ⏱️ 05.07.2023):
 
 	```
 	git clone https://github.com/deepmodeling/dpti
 	```
-- [PyPi](https://pypi.org/project/dpti) (📥 32 / month):
+- [PyPi](https://pypi.org/project/dpti) (📥 35 / month):
 	```
 	pip install dpti
 	```
 </details>
-<details><summary><b><a href="https://github.com/deepmodeling/fealpy">fealpy</a></b> (🥉9 ·  ⭐ 2 · 📉) - Finite Element Analysis Library in Python. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/deepmodeling/fealpy">fealpy</a></b> (🥉9 ·  ⭐ 2) - Finite Element Analysis Library in Python. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/deepmodeling/fealpy) (👨‍💻 57 · ⏱️ 20.11.2023):
 
 	```
 	git clone https://github.com/deepmodeling/fealpy
 	```
-- [PyPi](https://pypi.org/project/fealpy) (📥 49 / month):
+- [PyPi](https://pypi.org/project/fealpy) (📥 51 / month):
 	```
 	pip install fealpy
 	```
@@ -330,7 +330,7 @@ This curated list contains 33 awesome open-source projects with a total of 2.7K 
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/blog">Blog</a></b> (🥉8 ·  ⭐ 1) - DeepModeling Blog. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/deepmodeling/blog) (👨‍💻 5 · 🔀 5 · ⏱️ 11.01.2024):
+- [GitHub](https://github.com/deepmodeling/blog) (👨‍💻 5 · 🔀 5 · ⏱️ 15.01.2024):
 
 	```
 	git clone https://github.com/deepmodeling/blog

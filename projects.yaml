@@ -117,4 +117,5 @@ projects:
   - name: Uni-Fold
     github_id: deepmodeling/Uni-Fold
     dockerhub_id: dptechnology/unifold
-
+  - name: JAX-FEM
+    github_id: deepmodeling/jax-fem

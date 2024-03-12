@@ -123,3 +123,5 @@ projects:
     github_id: deepmodeling/reacnetgenerator
     pypi_id: reacnetgenerator
     conda_id: conda-forge/reacnetgenerator
+  - name: tbplas
+    github_id: deepmodeling/tbplas

@@ -119,6 +119,7 @@ projects:
     dockerhub_id: dptechnology/unifold
   - name: JAX-FEM
     github_id: deepmodeling/jax-fem
+    pypi_id: jax-fem
   - name: reacnetgenerator
     github_id: deepmodeling/reacnetgenerator
     pypi_id: reacnetgenerator

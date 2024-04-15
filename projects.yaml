@@ -61,6 +61,7 @@ projects:
     pypi_id: deepmodeling_sphinx
   - name: DeePTB
     github_id: deepmodeling/DeePTB
+    pypi_id: dptb
   - name: dflow
     github_id: deepmodeling/dflow
     pypi_id: dflow

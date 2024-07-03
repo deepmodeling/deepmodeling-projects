@@ -58,7 +58,7 @@ projects:
     dockerhub_id: deepmodeling/deepmd-kit
   - name: deepmodeling_sphinx
     github_id: deepmodeling/deepmodeling_sphinx
-    pypi_id: deepmodeling_sphin
+    pypi_id: deepmodeling_sphinx
   - name: DeePDih
     github_id: deepmodeling/DeePDih
   - name: DeePTB

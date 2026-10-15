@@ -1,16 +1,10 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://github.com/deepmodeling/dpdata">dpdata</a></b> (🥇27 ·  ⭐ 240 · 📈) - A Python package for manipulating atomistic data of software in computational science. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code>
-- <b><a href="https://github.com/deepmodeling/APEX">APEX</a></b> (🥈15 ·  ⭐ 45 · 💤) - APEX: Alloy Properties EXplorer using simulations. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code>
-
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/deepmodeling/deepmd-kit">DeePMD-kit</a></b> (🥇27 ·  ⭐ 1.9K · 📉) - A deep learning package for many-body potential energy representation and molecular dynamics. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code>
-- <b><a href="https://github.com/deepmodeling/dpgen">DP-GEN</a></b> (🥈22 ·  ⭐ 380 · 📉) - The deep potential generator to generate a deep-learning based model of interatomic potential energy and force field. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code>
-- <b><a href="https://github.com/deepmodeling/DeePTB">DeePTB</a></b> (🥈14 ·  ⭐ 100 · 📉) - DeePTB: A deep learning package for tight-binding Hamiltonian with ab initio accuracy. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code>
-- <b><a href="https://github.com/deepmodeling/DeePDih">DeePDih</a></b> (🥉4 ·  ⭐ 6 · 📉) - Deep Potential driven molecular dihedral scan toolkit. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="{}">DeePMD-kit</a></b> (🥇11 ·  ⭐ 1 · 📉) - A deep learning package for many-body potential energy representation and molecular dynamics. <code>Unlicensed</code>
+- <b><a href="{}">dpdata</a></b> (🥇11 · 📉) - Manipulating DeePMD-kit, VASP and LAMMPS data formats. <code>Unlicensed</code>
+- <b><a href="{}">ABACUS</a></b> (🥈9 · 📉) - An electronic structure package based on plane wave and numerical atomic basis sets. <code>Unlicensed</code>
+- <b><a href="{}">DeepFlame</a></b> (🥉1 · 📉) -  <code>Unlicensed</code>
+- <b><a href="{}">dflow</a></b> (🥉1 · 💤) - A Python development framework for concurrent learning applications based on Argo Workflows. <code>Unlicensed</code>
 
